@@ -10,8 +10,8 @@ I am not a financial advisor — always do your own research (DYOR) and consult 
 ## AUTHOR Information
 
 - **Taha Imran**
-- **Email**: tahaimran315@gmail.com [Email Me](mailto:tahaimran315@gmail.com)
-- **LinkedIn**: www.linkedin.com/in/taha-imran-9a6987338 [Taha Imran](www.linkedin.com/in/taha-imran-9a6987338)
+- **Email**: tahaimran315@gmail.com -- [Email Me](mailto:tahaimran315@gmail.com)
+- **LinkedIn**: www.linkedin.com/in/taha-imran-9a6987338 -- [Taha Imran](www.linkedin.com/in/taha-imran-9a6987338)
 
 ---
 
