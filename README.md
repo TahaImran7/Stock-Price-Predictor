@@ -49,14 +49,18 @@ I am not a financial advisor — always do your own research (DYOR) and consult 
    ```bash
    git clone https://github.com/TahaImran7/Stock-Price-Predictor.git
 
-2. **Install Dependencies**
+2. **Navigate to Project Folder**
+   ```bash
+   cd StockPricePredictor
+
+3. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
 
-3. **Run the Streamlit Webapp through the terminal**
+4. **Run the Streamlit Webapp through the terminal**
    ```bash
    streamlit run Stock_Price_Predictor.py
 
-4. **Navigate to**
+5. **Navigate to**
    ```bash
    http://localhost:8501
