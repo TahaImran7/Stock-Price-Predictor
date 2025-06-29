@@ -7,6 +7,14 @@ I am not a financial advisor — always do your own research (DYOR) and consult 
 
 ---
 
+## AUTHOR Information
+
+**Taha Imran**
+**Email**: [Email Me](mailto:tahaimran315@gmail.com)
+**LinkedIn**: [Taha Imran](www.linkedin.com/in/taha-imran-9a6987338)
+
+---
+
 ## Technologies Used
 
 - **Python**  
