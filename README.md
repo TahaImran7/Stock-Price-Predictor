@@ -72,3 +72,6 @@ I am not a financial advisor — always do your own research (DYOR) and consult 
 5. **Navigate to**
    ```bash
    http://localhost:8501
+
+# 🤝 **Contributing**
+Feel free to fork the repo, suggest improvements, or raise issues. All contributions are welcome!
